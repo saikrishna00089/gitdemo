@@ -6,6 +6,7 @@ public class GitDemo {
 	}
 	public static void greeting() {
 		System.out.println("welcome to git");
+		System.out.println("this is branching example");
 	}
 
 }
